@@ -1,8 +1,6 @@
 ## Project Euler Solutions
 
-These are my solutions for Project Euler. My goal is to try and solve the first one hundred problems. I was originally using C to solve these problems, however, I switched to Python. Although it would be a fun challenge to try and solve these problems with C, I just found Python a more enjoyable language to use because it is more advanced compared to C. 
-
-My solutions are not the most efficient or best ways to approach these problems, but they do work and achieve the right answer. 
+These are my solutions for Project Euler. My goal is to try and solve the first one hundred problems. I was originally using C to solve these problems, however, I switched to Python. Although it would be a fun challenge to try and solve these problems with C, I just found Python to be a more enjoyable language to use because it is more advanced compared to C. My solutions are not the most efficient or best ways to approach these problems, but they do work and achieve the right answer. 
 
 ### What is Project Euler? 
 
